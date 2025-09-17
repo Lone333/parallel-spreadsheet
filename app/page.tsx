@@ -508,7 +508,7 @@ export default function Page() {
                 </svg>
               </div>
               <div>
-                <h1 className="app-title">Parallel Spreadsheet</h1>
+                <h1 className="app-title">Magi Spreadsheet</h1>
                 <p className="app-subtitle">AI-powered data enrichment</p>
               </div>
             </div>
@@ -666,12 +666,12 @@ export default function Page() {
             <div className="footer-left">
               <span className="footer-text">Powered by</span>
               <a
-                href="https://parallel.ai"
+                href="https://www.axz.ai"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="footer-link"
               >
-                Parallel AI
+                Axz AI
               </a>
             </div>
             <div className="footer-right">
